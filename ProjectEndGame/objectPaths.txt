@@ -1,0 +1,1 @@
+assets/models/bun_zipper_XYZ_n.ply

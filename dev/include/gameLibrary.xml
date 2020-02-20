@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<GameLibrary>
+	<Platform name="Steam">
+		<Game name="Bioshock">
+			<Genre>FPS</Genre>
+			<Review>Amazing!</Review>
+		</Game>
+		<Game name="Super Meat Boy">
+			<Genre>Platformer</Genre>
+			<Review>Easy!</Review>
+		</Game>
+		<Game name="Civilization VI">
+			<Genre>TurnBased Strategy</Genre>
+			<Review>Fun!</Review>
+		</Game>
+	</Platform>
+
+  <Platform name="Xbox">
+    
+  </Platform>
+  <Platform name="Nintendo Switch">
+
+  </Platform>
+</GameLibrary>
